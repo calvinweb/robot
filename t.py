@@ -8,7 +8,7 @@ import time
 #数据集地址
 path='photos/'
 #模型保存地址
-model_path='model.ckpt'
+model_path='model/model.ckpt'
 
 #将所有的图片resize成100*100
 w=100
